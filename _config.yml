@@ -1,5 +1,5 @@
 locale: "en-US"
-title: Strata # Title of your site
+title: portfoio # Title of your site
 url: "https://soyoung-hong.github.io/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
